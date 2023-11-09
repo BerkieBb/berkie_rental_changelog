@@ -1,4 +1,4 @@
-# 1.0.1
+# 1.0.2
 
-- Fixed an issue where the player could not get access to the buy rental menu due to an invalid field.
-- Added a function on the client and server to set vehicle props for yourself like giving keys.
+- Fixed an issue where you could buy a business without money.
+- Fixed the charId not being recognized on newer versions of ox_core. If you're running an old version of ox_core, I suggest you update.
